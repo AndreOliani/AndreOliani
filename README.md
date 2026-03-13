@@ -1,7 +1,6 @@
 # Oi 👋, Eu me chamo André Oliani
 
-🚀 **Sou estudante de Análise e Desenvolvimento de Sistemas focado em Java e desenvolvimento de software.
-Atualmente estudando programação orientada a objetos, boas práticas de código e desenvolvimento backend.
+🚀 **Sou estudante de Análise e Desenvolvimento de Sistemas na faculdade fiap. Com foco em Java e desenvolvimento de software. Atualmente estudando programação orientada a objetos, boas práticas de código e desenvolvimento backend.
 Aqui compartilho projetos, estudos e experimentos enquanto procuro evoluir e aprender cada vez mais na área de tecnologia.**  
 
 ---
@@ -9,7 +8,7 @@ Aqui compartilho projetos, estudos e experimentos enquanto procuro evoluir e apr
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/AndreOliani?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-André Oliani-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="www.linkedin.com/in/andreolianidev">
