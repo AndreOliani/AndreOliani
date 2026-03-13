@@ -20,7 +20,7 @@ Aqui compartilho projetos, estudos e experimentos enquanto procuro evoluir e apr
   <a href="https://github.com/AndreOliani?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-André Oliani-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/andreolianidev">
+  <a href="https://www.linkedin.com/in/andreolianidev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
   </a>
 
